@@ -771,9 +771,9 @@ footer {
 @media (max-width: 576px) {
   .main {
     background-position: top right;
-    ,main h1 {
-            font-size: 3rem;
-         }
+    }
+  .main h1 {
+  font-size: 3rem;
   }
   .logo {
     text-align: center;
