@@ -34,6 +34,9 @@ a:focus,
 textarea:focus {
   outline: none;
 }
+input[type=text] {
+    font-size: 1.8rem;
+  }
 .button {
   padding: 1rem 3rem;
   border-radius: 8px;
@@ -57,7 +60,7 @@ textarea:focus {
   width: 100%;
   border: 1px solid #dddddd;
   border-radius: 5px;
-  padding: 1.5rem;
+  padding: 1.2rem;
 }
 /*подписи к полям*/
 .form label {
