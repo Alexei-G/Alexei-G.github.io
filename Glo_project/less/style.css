@@ -771,6 +771,9 @@ footer {
 @media (max-width: 576px) {
   .main {
     background-position: top right;
+    ,main h1 {
+            font-size: 3rem;
+         }
   }
   .logo {
     text-align: center;
@@ -806,6 +809,12 @@ footer {
   .feedback .fotorama {
     margin-bottom: 3rem;
   }
+  .feedback-prev-btn {
+            left: 0;
+        }
+  .feedback-next-btn {
+            right: 0;
+        }
   .feedback .hand {
     display: none;
   }
