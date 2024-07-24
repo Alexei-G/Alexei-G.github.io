@@ -760,6 +760,10 @@ footer {
   .feedback .hand {
     display: none;
   }
+  .feedback-form {
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
   .scheme {
     background: none;
     text-align: center;
@@ -817,6 +821,10 @@ footer {
         }
   .feedback .hand {
     display: none;
+  }
+  .feedback-form {
+    padding-left: 6rem;
+    padding-right: 6rem;
   }
   .scheme {
     background: none;
